@@ -1,3 +1,3 @@
 -- creating database if it was never be there.
-CREATE DATABASE hbtn_0c_0;
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
 
